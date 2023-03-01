@@ -1,0 +1,33 @@
+table{
+    width: 50% !important;
+    margin: 0 auto;
+}
+thead th:nth-child(1),
+thead th:nth-child(2) {
+    background-color: #ffff00;
+}
+
+.btn-sucess{
+    width: 50%;
+    background-color: #b6d7a8 !important;
+    border: #b6d7a8 !important;
+    color: black !important;
+}
+
+.btn-fail{
+    width: 50%;
+    background-color: #f9cb9c !important;
+    border: #f9cb9c !important;
+    color: black !important;
+}
+
+.button-table {
+    background: #ec5990 !important;
+    color: white;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 40px !important;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 100;
+}

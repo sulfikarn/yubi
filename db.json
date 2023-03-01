@@ -1,0 +1,19 @@
+{
+  "screenTwoData": [
+    {
+      "website": "www.go-yubi.com",
+      "status": true,
+      "id": 1
+    },
+    {
+      "website": "www.google.com",
+      "status": true,
+      "id": 2
+    },
+    {
+      "website": "https://rera.goa.gov.in/reraApp/",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
